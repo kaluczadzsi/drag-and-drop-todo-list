@@ -9,9 +9,13 @@
 html,
 body,
 #root {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  height: 100vh;
 }
 
 #root {
-  height: 100vh;
+  height: 100%;
 }
