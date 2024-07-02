@@ -9,6 +9,9 @@
 html,
 body,
 #root {
-  height: 100vh;
   font-family: "Poppins", sans-serif;
+}
+
+#root {
+  height: 100vh;
 }
